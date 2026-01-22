@@ -1,4 +1,4 @@
-# Finsearch
+# Finsearch: Finance Research Project
 Theme: Understanding the Effects of Interest Hikes on Stock, Bond,and Derivatives Markets
 
 Checkpoint 1: Introduction to Interest Rates and Monetary Policy
